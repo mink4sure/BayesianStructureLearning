@@ -3,3 +3,7 @@ venv/
 
 # Ignoring YOLO models
 *.pt
+
+# Ingore working files
+data/
+results/
