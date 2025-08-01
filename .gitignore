@@ -1,0 +1,5 @@
+# Ignoring python venv
+venv/
+
+# Ignoring YOLO models
+*.pt
