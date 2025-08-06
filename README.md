@@ -9,8 +9,8 @@ To install the neccessary dependencies (preferrably in a virtual env), run
 pip install -r requirements.txt
 ```
 
-*create_data.py* - This file is used to generate the data. The relevant data is saved in a file with the name `global.txt`
-*score_data.py* - This file can be used to score the inference results by comparing them to the results of YOLO having run over a full scene. The `pairs`-variable needs to be manually set using the first figure.
+*create_data.py* - This file is used to generate the data. The relevant data is saved in a file with the name `global.txt`\
+*score_data.py* - This file can be used to score the inference results by comparing them to the results of YOLO having run over a full scene. The `pairs`-variable needs to be manually set using the first figure.\
 *performance_visualization.py* - Plots the results of `score_data.py`
 
 All relevant paths are on the top of each file.
